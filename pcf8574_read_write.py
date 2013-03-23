@@ -30,5 +30,3 @@ while 1==1:
 	bus.write_byte(DEVICE_ADDR,writeVal)
 
 	time.sleep(0.1)
-
-
