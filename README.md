@@ -1,7 +1,7 @@
 Raspberry_PCF8574
 =================
 
-Few examples of Raspberry Pi controls '''PCF8574''', Remote 8-bit I/O expander for I2C-bus with Python
+Few examples of Raspberry Pi controls **PCF8574**, Remote 8-bit I/O expander for I2C-bus with Python
 
 ![diagram](diagram2.png)
 
